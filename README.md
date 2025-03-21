@@ -14,7 +14,7 @@ This project implements a simple calculator that supports arithmetic expressions
 
 ## Installation
 ### Prerequisties
-Ensure youhave the following tools installed:
+Ensure you have the following tools installed:
 - **Flex** (Lex implementation)
 - **Bison** (Yacc implementation)
 - **GCC** (C compiler)
